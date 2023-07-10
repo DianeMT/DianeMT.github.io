@@ -18,6 +18,6 @@ I am a first year Ph.D. student at [IMT Atlantique](https://www.imt-atlantique.f
 - **[May 2023]** Attended the European Responsible Research and Innovation Event ([ERRIE](https://msca-bienvenue.bretagne.bzh/news/errie-2023-register-now/)) 2023 seminar in Brest, France 
 
 
-{% include_relative _includes/publications.md %}
+<!--- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/services.md %}
