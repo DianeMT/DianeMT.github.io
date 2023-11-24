@@ -14,6 +14,7 @@ I am a first year Ph.D. student at [IMT Atlantique](https://www.imt-atlantique.f
 
 ## News
 
+- **[September 2023]** Attended the (Tools for causality)[https://quarter-on-causality.github.io/tools/] summer school on causal inference and causal discovery organized by the AISSAI Center (CNRS)
 - **[July 2023]** Our paper about a 2-step alarm classification approach is accepted to [ECOC 2023](https://ecoc2023.theiet.org/)
 - **[May 2023]** Attended the European Responsible Research and Innovation Event ([ERRIE](https://msca-bienvenue.bretagne.bzh/news/errie-2023-register-now/)) 2023 seminar in Brest, France 
 
